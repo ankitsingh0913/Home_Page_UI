@@ -1,16 +1,5 @@
-# ui
+# Home Page UI
 
-A new Flutter project.
+A Home Page UI
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image (17)](https://github.com/ankitsingh0913/Home_Page_UI/assets/114000644/29b946f9-3d09-4fb6-8ec9-4096e1a2ae10)
